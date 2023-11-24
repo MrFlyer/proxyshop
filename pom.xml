@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>top.mrflyer.shop</groupId>
 	<artifactId>proxyshop</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>proxyshop</name>
 	<description>proxyshop</description>
 	<properties>
@@ -43,14 +43,10 @@
 			<version>0.1.0</version>
 		</dependency>
 		<dependency>
-			<groupId>nl.tritales.springrestdoc</groupId>
-			<artifactId>springrestdoc</artifactId>
-			<version>0.1.0</version>
-		</dependency>
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+
 	</dependencies>
 
 	<build>
